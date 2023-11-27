@@ -1,0 +1,4 @@
+Bundle-Name: Listagem-usuarios-portlet
+Bundle-SymbolicName: Listagem.usuarios.portlet
+Bundle-Version: 1.0.0
+Export-Package: Listagem.usuarios.portlet.constants
